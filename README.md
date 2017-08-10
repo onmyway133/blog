@@ -1,12 +1,13 @@
 # blog
 🍁 My blog 
 
-- The story https://github.com/onmyway133/blog/issues/1
-- My open source https://github.com/onmyway133/blog/issues/5
-- My website http://www.fantageek.com/
-- My Twitter https://twitter.com/onmyway133
-- My Medium https://medium.com/@onmyway133
-- My Dev https://dev.to/onmyway133
-- My 500px https://500px.com/onmyway133
-- My Product Hunt https://www.producthunt.com/@onmyway133/made
-- My collection https://github.com/onmyway133/fantastic-awesome
+- Story https://github.com/onmyway133/blog/issues/1
+- Open source https://github.com/onmyway133/blog/issues/5
+- Website http://www.fantageek.com/
+- Twitter https://twitter.com/onmyway133
+- Medium https://medium.com/@onmyway133
+- Dev https://dev.to/onmyway133
+- 500px https://500px.com/onmyway133
+- Bitbucket https://bitbucket.org/onmyway133/
+- Product Hunt https://www.producthunt.com/@onmyway133/made
+- Collection https://github.com/onmyway133/fantastic-awesome
