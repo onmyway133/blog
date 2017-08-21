@@ -12,4 +12,5 @@
 - Bitbucket https://bitbucket.org/onmyway133/
 - Product Hunt https://www.producthunt.com/@onmyway133/made
 - Angel https://angel.co/onmyway133
+- Linkedin https://www.linkedin.com/in/onmyway133/
 - Collection https://github.com/onmyway133/fantastic-awesome
