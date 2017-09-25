@@ -13,4 +13,5 @@
 - Product Hunt https://www.producthunt.com/@onmyway133/made
 - Angel https://angel.co/onmyway133
 - Linkedin https://www.linkedin.com/in/onmyway133/
+- Cocoapods https://cocoapods.org/owners/3739
 - Collection https://github.com/onmyway133/fantastic-awesome
