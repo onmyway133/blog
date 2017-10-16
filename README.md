@@ -2,7 +2,7 @@
 🍁 My blog 
 
 - Story https://github.com/onmyway133/blog/issues/1
-- Open source https://github.com/onmyway133/blog/issues/5
+- Open source https://github.com/onmyway133/blog/issues/5 :rocket:
 - Website http://www.fantageek.com/
 - Stackoverflow https://stackoverflow.com/users/1418457/onmyway133
 - Twitter https://twitter.com/onmyway133
