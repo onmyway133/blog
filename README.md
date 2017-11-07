@@ -1,5 +1,4 @@
 # 𝓫𝓵𝓸𝓰
-🍁 My blog 
 
 - Story https://github.com/onmyway133/blog/issues/1 😇
 - GitHub https://github.com/onmyway133/blog 🚀
