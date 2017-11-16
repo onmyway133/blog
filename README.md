@@ -4,9 +4,9 @@
 - GitHub https://github.com/onmyway133/blog 🚀
 - Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥
 - Website http://www.fantageek.com/ ⛺️
-- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 
+- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘
 - Twitter https://twitter.com/onmyway133 🐦
-- Medium https://medium.com/@onmyway133 
+- Medium https://medium.com/@onmyway133 🏄
 - Dev https://dev.to/onmyway133 👨‍💻
 - 500px https://500px.com/onmyway133 📸
 - Bitbucket https://bitbucket.org/onmyway133/
