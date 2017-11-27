@@ -4,6 +4,7 @@
 - GitHub https://github.com/onmyway133/blog 🚀
 - Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥
 - Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘
+- Talks https://github.com/onmyway133/blog/issues/111 👨‍🎤
 - SpeakerDeck https://speakerdeck.com/onmyway133 👨‍🎤
 - Twitter https://twitter.com/onmyway133 🐦
 - Medium https://medium.com/@onmyway133 🏄
