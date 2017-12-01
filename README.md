@@ -18,5 +18,5 @@
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Cocoapods https://cocoapods.org/owners/3739 ☔️
 - Keybase https://keybase.io/onmyway133 🔑
-- Feedl https://feedly.com/i/onmyway133 🍃
+- Feedly https://feedly.com/i/onmyway133 🍃
 - Collection https://github.com/onmyway133/fantastic-awesome 🌟
