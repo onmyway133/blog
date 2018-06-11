@@ -2,7 +2,7 @@
 
 About
 
-- Ohiyo https://github.com/onmyway133/blog/issues/1 👋
+- Ohayo https://github.com/onmyway133/blog/issues/1 👋
 - Story https://stackoverflow.com/users/story/1418457 😇
 - Twitter https://twitter.com/onmyway133 🐦
 
