@@ -37,6 +37,8 @@ Misc
 - [Dear SDK developers](https://medium.com/@onmyway133/dear-sdk-developers-d8e1434fb702)
 - [Improving communication - English pronunciation](https://medium.com/@onmyway133/improving-communication-english-pronunciation-108074236c80)
 - [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
+- [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f)
+- [Making Unity games in pure C#](https://medium.com/@onmyway133/making-unity-games-in-pure-c-2b1723cdc71f)
 
 ## Working
 
