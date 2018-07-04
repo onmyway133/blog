@@ -21,7 +21,7 @@ Misc
 
 ## Writing
 
-- Medium https://medium.com/@onmyway133 🏄
+- Medium https://medium.com/@onmyway133 and https://medium.com/fantageek 🏄
 - Website http://www.fantageek.com/ ⛺️
 - Dev https://dev.to/onmyway133 👨‍💻
 - GitHub https://github.com/onmyway133/blog/issues 🥁
