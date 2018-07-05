@@ -40,6 +40,7 @@ Misc
 - [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
 - [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f)
 - [Making Unity games in pure C#](https://medium.com/@onmyway133/making-unity-games-in-pure-c-2b1723cdc71f)
+- [Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 
 ## Working
 
