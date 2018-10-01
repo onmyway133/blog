@@ -31,17 +31,9 @@ Misc
 
 - [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106)
 - [Open Source Stories: From Cachable to Generic Storage in Cache](https://medium.com/hyperoslo/open-source-stories-from-cachable-to-generic-storage-in-cache-418d9a230d51)
-- [Machine Learning in iOS: IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1)
-- [Machine Learning in iOS: Azure Custom Vision and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee)
-- [Machine Learning in iOS: Turi Create and CoreML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
-- [URL Routing in iOS apps: Compass Beginner Guide](https://medium.com/flawless-app-stories/url-routing-with-compass-d59c0061e7e2)
 - [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b)
-- [Dear SDK developers](https://medium.com/@onmyway133/dear-sdk-developers-d8e1434fb702)
 - [Improving communication - English pronunciation](https://medium.com/@onmyway133/improving-communication-english-pronunciation-108074236c80)
 - [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
-- [Vision in iOS: Text detection and Tesseract recognition](https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f)
-- [Making Unity games in pure C#](https://medium.com/@onmyway133/making-unity-games-in-pure-c-2b1723cdc71f)
-- [Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 
 ## Working
 
