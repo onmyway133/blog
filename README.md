@@ -6,7 +6,6 @@
 - Story https://stackoverflow.com/users/story/1418457 😇
 - Twitter https://twitter.com/onmyway133 🐦
 - Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
-- Goodreads https://www.goodreads.com/onmyway133 :book:
 
 Curation
 
@@ -19,7 +18,7 @@ Misc
 - Angel https://angel.co/onmyway133 👼
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Keybase https://keybase.io/onmyway133 🔑
-
+- Goodreads https://www.goodreads.com/onmyway133 :book:
 
 ## Writing
 
