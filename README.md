@@ -19,6 +19,7 @@ Misc
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Keybase https://keybase.io/onmyway133 🔑
 - Goodreads https://www.goodreads.com/onmyway133 :book:
+- Projects https://github.com/onmyway133/blog/issues/166 😎
 
 ## Writing
 
