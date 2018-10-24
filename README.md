@@ -5,17 +5,18 @@
 - Ohayo https://github.com/onmyway133/blog/issues/1 👋
 - Story https://stackoverflow.com/users/story/1418457 😇
 - Twitter https://twitter.com/onmyway133 🐦
-- Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
 
 Misc
+
+- Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
+- Projects https://github.com/onmyway133/blog/issues/166 😎
+- Achievements https://github.com/onmyway133/blog/issues/167 🏆
 
 - 500px https://500px.com/onmyway133 📸
 - Angel https://angel.co/onmyway133 👼
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Keybase https://keybase.io/onmyway133 🔑
 - Goodreads https://www.goodreads.com/onmyway133 :book:
-- Projects https://github.com/onmyway133/blog/issues/166 😎
-- Achievements https://github.com/onmyway133/blog/issues/167 🏆
 - Feedly https://feedly.com/i/onmyway133 🍃
 - Collection https://github.com/onmyway133/fantastic-awesome 🌟
 
