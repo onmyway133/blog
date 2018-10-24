@@ -7,11 +7,6 @@
 - Twitter https://twitter.com/onmyway133 🐦
 - Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
 
-Curation
-
-- Feedly https://feedly.com/i/onmyway133 🍃
-- Collection https://github.com/onmyway133/fantastic-awesome 🌟
-
 Misc
 
 - 500px https://500px.com/onmyway133 📸
@@ -20,6 +15,9 @@ Misc
 - Keybase https://keybase.io/onmyway133 🔑
 - Goodreads https://www.goodreads.com/onmyway133 :book:
 - Projects https://github.com/onmyway133/blog/issues/166 😎
+- Achievements https://github.com/onmyway133/blog/issues/167 🏆
+- Feedly https://feedly.com/i/onmyway133 🍃
+- Collection https://github.com/onmyway133/fantastic-awesome 🌟
 
 ## Writing
 
