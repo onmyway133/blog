@@ -61,3 +61,17 @@ Misc
 
 - Talks https://github.com/onmyway133/blog/issues/111 👨‍🎤
 - SpeakerDeck https://speakerdeck.com/onmyway133 👨‍🎤
+
+## Curation
+
+- fantastic-android-animation 💦 A collection of Android animation repos
+- fantastic-android-architecture 🏰 Better ways to structure Android apps
+- fantastic-ios-animation ☔️ A collection of iOS animation repos
+- fantastic-ios-architecture 🏯 Better ways to structure iOS apps
+- fantastic-machine-learning 🎰 A curated list of machine learning resources, preferably in Swift
+- fantastic-conference-videos 🎸 Conference videos
+- medium.com/fantageek/best-resources-for-software-engineering-77a5b8f7280c
+- codeburst.io/learning-voip-rtp-and-sip-aka-awesome-pjsip-2035fa02cf88
+- hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
+- medium.com/fantageek/improving-communication-welcome-to-basic-63b7fd1423f3
+- hackernoon.com/20-recommended-utility-apps-for-macos-in-2018-ea494b4db72b
