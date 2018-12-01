@@ -21,6 +21,7 @@ Misc
 - Collection https://github.com/onmyway133/fantastic-awesome 🌟
 - Questions https://github.com/onmyway133/blog/issues/168 🤔
 - Books https://github.com/onmyway133/blog/issues/78 📚
+- emoji https://github.com/onmyway133/emoji ❤️
 
 ## Writing
 
