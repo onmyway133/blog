@@ -20,6 +20,7 @@ Misc
 - Feedly https://feedly.com/i/onmyway133 🍃
 - Collection https://github.com/onmyway133/fantastic-awesome 🌟
 - Questions https://github.com/onmyway133/blog/issues/168 🤔
+- Books https://github.com/onmyway133/blog/issues/78 📚
 
 ## Writing
 
