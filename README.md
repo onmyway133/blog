@@ -63,14 +63,14 @@ Misc
 
 ## Curation
 
-- fantastic-android-animation 💦 A collection of Android animation repos
-- fantastic-android-architecture 🏰 Better ways to structure Android apps
-- fantastic-ios-animation ☔️ A collection of iOS animation repos
-- fantastic-ios-architecture 🏯 Better ways to structure iOS apps
-- fantastic-machine-learning 🎰 A curated list of machine learning resources, preferably in Swift
-- fantastic-conference-videos 🎸 Conference videos
-- medium.com/fantageek/best-resources-for-software-engineering-77a5b8f7280c
-- codeburst.io/learning-voip-rtp-and-sip-aka-awesome-pjsip-2035fa02cf88
-- hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
-- medium.com/fantageek/improving-communication-welcome-to-basic-63b7fd1423f3
-- hackernoon.com/20-recommended-utility-apps-for-macos-in-2018-ea494b4db72b
+- [fantastic-android-animation](https://github.com/onmyway133/fantastic-android-animation) 💦 A collection of Android animation repos
+- [fantastic-android-architecture](https://github.com/onmyway133/fantastic-android-architecture) 🏰 Better ways to structure Android apps
+- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) ☔️ A collection of iOS animation repos
+- [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture) 🏯 Better ways to structure iOS apps
+- [fantastic-machine-learning](https://github.com/onmyway133/fantastic-machine-learning) 🎰 A curated list of machine learning resources, preferably in Swift
+- [fantastic-conference-videos](https://github.com/onmyway133/fantastic-conference-videos) 🎸 Conference videos
+- https://medium.com/fantageek/best-resources-for-software-engineering-77a5b8f7280c
+- https://codeburst.io/learning-voip-rtp-and-sip-aka-awesome-pjsip-2035fa02cf88
+- https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
+- https://medium.com/fantageek/improving-communication-welcome-to-basic-63b7fd1423f3
+- https://hackernoon.com/20-recommended-utility-apps-for-macos-in-2018-ea494b4db72b
