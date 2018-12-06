@@ -74,3 +74,4 @@ Misc
 - https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
 - https://medium.com/fantageek/improving-communication-welcome-to-basic-63b7fd1423f3
 - https://hackernoon.com/20-recommended-utility-apps-for-macos-in-2018-ea494b4db72b
+- https://medium.com/fantageek/awesome-resources-to-get-started-in-learning-blockchain-and-cryptocurrency-1f341402c222
