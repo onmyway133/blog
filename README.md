@@ -6,7 +6,25 @@
 - Story https://stackoverflow.com/users/story/1418457 😇
 - Twitter https://twitter.com/onmyway133 🐦
 
-Misc
+## Working
+
+- GitHub https://github.com/onmyway133 🚀
+- Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥
+- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘
+- Product Hunt https://www.producthunt.com/@onmyway133/made 🕺
+- Bitbucket https://bitbucket.org/onmyway133/
+- Cocoapods https://cocoapods.org/owners/3739 ☔️
+
+#### Favorite
+
+- [DeepDiff](https://github.com/onmyway133/DeepDiff) 🦀 Very fast diffing in Swift
+- [Snowflake](https://github.com/onmyway133/Snowflake) ❄️ SVG in Swift
+- [XcodeWay](https://github.com/onmyway133/XcodeWay) ⛵️ An Xcode Source Editor Extension that helps navigating to many places easier
+- [Cache](https://github.com/hyperoslo/Cache) 📦 Nothing but Cache
+- [Imaginary](https://github.com/hyperoslo/Imaginary) 🦄 Remote images, as easy as one, two, three.
+- [Gallery](https://github.com/hyperoslo/Gallery) 📹 Your next favorite image and video picker
+
+## Activity
 
 - Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
 - Projects https://github.com/onmyway133/blog/issues/166 😎
@@ -37,24 +55,6 @@ Misc
 - [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b)
 - [Improving communication - English pronunciation](https://medium.com/@onmyway133/improving-communication-english-pronunciation-108074236c80)
 - [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
-
-## Working
-
-- GitHub https://github.com/onmyway133 🚀
-- Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥
-- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘
-- Product Hunt https://www.producthunt.com/@onmyway133/made 🕺
-- Bitbucket https://bitbucket.org/onmyway133/
-- Cocoapods https://cocoapods.org/owners/3739 ☔️
-
-#### Favorite
-
-- [DeepDiff](https://github.com/onmyway133/DeepDiff) 🦀 Very fast diffing in Swift
-- [Snowflake](https://github.com/onmyway133/Snowflake) ❄️ SVG in Swift
-- [XcodeWay](https://github.com/onmyway133/XcodeWay) ⛵️ An Xcode Source Editor Extension that helps navigating to many places easier
-- [Cache](https://github.com/hyperoslo/Cache) 📦 Nothing but Cache
-- [Imaginary](https://github.com/hyperoslo/Imaginary) 🦄 Remote images, as easy as one, two, three.
-- [Gallery](https://github.com/hyperoslo/Gallery) 📹 Your next favorite image and video picker
 
 ## Speaking
 
