@@ -40,6 +40,7 @@
 - Books https://github.com/onmyway133/blog/issues/78 📚
 - emoji https://github.com/onmyway133/emoji 🍎
 - Testimonial https://github.com/onmyway133/blog/issues/169 ❤️
+- Reading list https://github.com/onmyway133/blog/issues/78
 
 ## Writing
 
