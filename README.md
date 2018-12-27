@@ -37,7 +37,6 @@
 - Goodreads https://www.goodreads.com/onmyway133 :book:
 - Feedly https://feedly.com/i/onmyway133 🍃
 - Questions https://github.com/onmyway133/blog/issues/168 🤔
-- Books https://github.com/onmyway133/blog/issues/78 📚
 - emoji https://github.com/onmyway133/emoji 🍎
 - Testimonial https://github.com/onmyway133/blog/issues/169 ❤️
 - Reading list https://github.com/onmyway133/blog/issues/78 📚
