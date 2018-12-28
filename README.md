@@ -57,6 +57,7 @@
 - [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b)
 - [Improving communication - English pronunciation](https://medium.com/@onmyway133/improving-communication-english-pronunciation-108074236c80)
 - [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
+- [How to convert your Xcode plugins to Xcode extensions](https://medium.freecodecamp.org/how-to-convert-your-xcode-plugins-to-xcode-extensions-ac90f32ae0e3)
 
 ## Speaking
 
