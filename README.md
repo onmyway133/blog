@@ -79,3 +79,4 @@
 - https://hackernoon.com/20-recommended-utility-apps-for-macos-in-2018-ea494b4db72b
 - https://medium.com/fantageek/awesome-resources-to-get-started-in-learning-blockchain-and-cryptocurrency-1f341402c222
 - https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d
+- https://medium.com/hyperoslo/best-places-to-learn-ios-development-85ebebe890cf
