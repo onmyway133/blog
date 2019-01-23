@@ -36,6 +36,7 @@
 - Achievements https://github.com/onmyway133/blog/issues/167 🏆
 -  
 - 500px https://500px.com/onmyway133 📸
+- Goodreads https://www.goodreads.com/onmyway133 :book:
 - Angel https://angel.co/onmyway133 👼
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Questions https://github.com/onmyway133/blog/issues/168 🤔
