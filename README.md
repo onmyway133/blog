@@ -29,6 +29,7 @@
 - Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
 - Projects https://github.com/onmyway133/blog/issues/166 😎
 - Achievements https://github.com/onmyway133/blog/issues/167 🏆
+- Gumroad https://gumroad.com/onmyway133 🤠
 -  
 - 500px https://500px.com/onmyway133 📸
 - Angel https://angel.co/onmyway133 👼
