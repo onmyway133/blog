@@ -4,15 +4,17 @@
 
 - Ohayo https://github.com/onmyway133/blog/issues/1 👋
 - Story https://stackoverflow.com/users/story/1418457 😇
-- Twitter https://twitter.com/onmyway133 🐦
+
+## Highlight
+
+- GitHub https://github.com/onmyway133 🚀(160+ repo)
+- Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched)
+- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8m people reached)
+- Medium https://medium.com/@onmyway133 🏄 (1.5k followers)
+- Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥
+- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄
 
 ## Working
-
-- GitHub https://github.com/onmyway133 🚀
-- Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥
-- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘
-- Bitbucket https://bitbucket.org/onmyway133/
-- Cocoapods https://cocoapods.org/owners/3739 ☔️
 
 #### Products
 
@@ -29,27 +31,9 @@
 - [Imaginary](https://github.com/hyperoslo/Imaginary) 🦄 Remote images, as easy as one, two, three.
 - [Gallery](https://github.com/hyperoslo/Gallery) 📹 Your next favorite image and video picker
 
-## Activity
-
-- Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
-- Projects https://github.com/onmyway133/blog/issues/166 😎
-- Achievements https://github.com/onmyway133/blog/issues/167 🏆
--  
-- 500px https://500px.com/onmyway133 📸
-- Goodreads https://www.goodreads.com/onmyway133 :book:
-- Angel https://angel.co/onmyway133 👼
-- Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
-- Questions https://github.com/onmyway133/blog/issues/168 🤔
-- emoji https://github.com/onmyway133/emoji 🍎
-- Testimonial https://github.com/onmyway133/blog/issues/169 ❤️
-- Reading list https://github.com/onmyway133/blog/issues/78 📚
-- Archives https://github.com/onmyway133/archives 🍵
-- freeCodeCamp https://www.freecodecamp.org/onmyway133 🍞
-
 ## Writing
 
-- Medium https://medium.com/@onmyway133 and https://medium.com/fantageek 🏄
-- Articles https://github.com/onmyway133/blog/issues/165 🏄
+- Medium https://medium.com/fantageek 🏄
 - Website http://www.fantageek.com/ ⛺️ 
 - Dev https://dev.to/onmyway133 👨‍💻
 - GitHub https://github.com/onmyway133/blog/issues 🥁
@@ -67,6 +51,25 @@
 
 - Talks https://github.com/onmyway133/blog/issues/111 👨‍🎤
 - SpeakerDeck https://speakerdeck.com/onmyway133 👨‍🎤
+
+## Activity
+
+- Twitter https://twitter.com/onmyway133 🐦
+- Bitbucket https://bitbucket.org/onmyway133/
+- Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
+- Projects https://github.com/onmyway133/blog/issues/166 😎
+- Achievements https://github.com/onmyway133/blog/issues/167 🏆
+-  
+- 500px https://500px.com/onmyway133 📸
+- Goodreads https://www.goodreads.com/onmyway133 :book:
+- Angel https://angel.co/onmyway133 👼
+- Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
+- Questions https://github.com/onmyway133/blog/issues/168 🤔
+- emoji https://github.com/onmyway133/emoji 🍎
+- Testimonial https://github.com/onmyway133/blog/issues/169 ❤️
+- Reading list https://github.com/onmyway133/blog/issues/78 📚
+- Archives https://github.com/onmyway133/archives 🍵
+- freeCodeCamp https://www.freecodecamp.org/onmyway133 🍞
 
 ## Curation
 
