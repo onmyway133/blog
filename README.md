@@ -11,7 +11,7 @@
 - Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8m people reached)
 - Medium https://medium.com/@onmyway133 🏄 (1.5k followers)
 - Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥 (160+ repo)
-- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄
+- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (75k monthly views)
 
 ## Working
 
