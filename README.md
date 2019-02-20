@@ -16,10 +16,7 @@
 ## Working
 
 - GitHub https://github.com/onmyway133  🚀
-
-#### Products
-
-- Support https://onmyway133.github.io/ ❤️
+- Apps https://onmyway133.github.io/ ❤️
 - Gumroad https://gumroad.com/onmyway133 🤠
 - Product Hunt https://www.producthunt.com/@onmyway133/made 🕺
 
@@ -57,8 +54,8 @@
 
 - Twitter https://twitter.com/onmyway133 🐦
 - Bitbucket https://bitbucket.org/onmyway133/
-- Apps https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
-- Projects https://github.com/onmyway133/blog/issues/166 😎
+- Projects https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
+- Side projects https://github.com/onmyway133/blog/issues/166 😎
 - Achievements https://github.com/onmyway133/blog/issues/167 🏆
 -  
 - 500px https://500px.com/onmyway133 📸
