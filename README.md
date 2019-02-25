@@ -8,7 +8,7 @@
 ## Highlight
 
 - Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched, 3.4m downloads)
-- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8m people reached)
+- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8m people reached, 360+ answers)
 - Medium https://medium.com/@onmyway133 🏄 (1.5k followers, 75k monthly views)
 - Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥 (160+ repo)
 - Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (170+ articles)
