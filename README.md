@@ -7,11 +7,11 @@
 
 ## Highlight
 
-- Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched)
+- Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched, 3.4m downloads)
 - Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8m people reached)
-- Medium https://medium.com/@onmyway133 🏄 (1.5k followers)
+- Medium https://medium.com/@onmyway133 🏄 (1.5k followers, 75k monthly views)
 - Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥 (160+ repo)
-- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (75k monthly views)
+- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (170+ articles)
 
 ## Working
 
@@ -33,7 +33,7 @@
 
 - Medium https://medium.com/fantageek 🏄
 - Website http://www.fantageek.com/ ⛺️ 
-- Dev https://dev.to/onmyway133 👨‍💻
+- Dev https://dev.to/onmyway133 👨‍💻 (47k views)
 - GitHub https://github.com/onmyway133/blog/issues 🥁
 
 #### Favorite
