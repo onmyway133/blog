@@ -64,7 +64,6 @@
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Questions https://github.com/onmyway133/blog/issues/168 🤔
 - emoji https://github.com/onmyway133/emoji 🍎
-- Testimonial https://github.com/onmyway133/blog/issues/169 ❤️
 - Reading list https://github.com/onmyway133/blog/issues/78 📚
 - Archives https://github.com/onmyway133/archives 🍵
 - freeCodeCamp https://www.freecodecamp.org/onmyway133 🍞
