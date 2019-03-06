@@ -53,20 +53,14 @@
 ## Activity
 
 - Twitter https://twitter.com/onmyway133 🐦
-- Bitbucket https://bitbucket.org/onmyway133/
 - Projects https://docs.google.com/document/d/1SCeyVgxN34tsHgWlktLL3NlwiDG6CvV3Cpqo1x1AUvw :apple:
 - Side projects https://github.com/onmyway133/blog/issues/166 😎
 - Achievements https://github.com/onmyway133/blog/issues/167 🏆
 -  
-- 500px https://500px.com/onmyway133 📸
-- Goodreads https://www.goodreads.com/onmyway133 :book:
-- Angel https://angel.co/onmyway133 👼
+- 500px https://500px.com/onmyway133 
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
-- Questions https://github.com/onmyway133/blog/issues/168 🤔
-- emoji https://github.com/onmyway133/emoji 🍎
 - Reading list https://github.com/onmyway133/blog/issues/78 📚
 - Archives https://github.com/onmyway133/archives 🍵
-- freeCodeCamp https://www.freecodecamp.org/onmyway133 🍞
 
 ## Curation
 
