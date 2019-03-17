@@ -4,9 +4,6 @@
 
 - Ohayo https://github.com/onmyway133/blog/issues/1 👋
 - Story https://stackoverflow.com/users/story/1418457 😇
-
-## Highlight
-
 - Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched, 3.4m downloads)
 - Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8m people reached, 360+ answers)
 - Medium https://medium.com/@onmyway133 🏄 (1.5k followers, 75k monthly views)
