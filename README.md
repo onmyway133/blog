@@ -20,7 +20,7 @@
 
 - Medium https://medium.com/fantageek 🏄
 - Website http://www.fantageek.com/ ⛺️ 
-- Dev https://dev.to/onmyway133 👨‍💻 (47k views)
+- Dev https://dev.to/onmyway133 👨‍💻 (56k views)
 - GitHub https://github.com/onmyway133/blog/issues 🥁
 
 ## Speaking
