@@ -3,23 +3,21 @@
 ## Bio
 
 - Ohayou https://github.com/onmyway133/blog/issues/1 👋
-- Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched, 3.4m downloads)
-- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8.3m people reached, 370+ answers)
-- Medium https://medium.com/@onmyway133 🏄 (1.7k followers, 85k monthly views)
-- Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥 (160+ repo)
-- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (170+ articles)
 
 ## Working
 
-- GitHub https://github.com/onmyway133  🚀
 - Apps https://onmyway133.github.io/ ❤️
-- Gumroad https://gumroad.com/onmyway133 🤠
+- GitHub https://github.com/onmyway133  🚀
+- Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched, 3.4m downloads)
+- Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8.4m people reached, 370+ answers)
+- Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥 (160+ repo)
+- Gumroad https://gumroad.com/onmyway133 🤠❤️
 - Product Hunt https://www.producthunt.com/@onmyway133/made 🕺
 
 ## Writing
 
-- Medium https://medium.com/fantageek 🏄
-- Website http://www.fantageek.com/ ⛺️ 
+- Medium https://medium.com/fantageek 🏄 (1.7k followers, 85k monthly views)
+- Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (170+ articles) 
 - Dev https://dev.to/onmyway133 👨‍💻 (56k views)
 - GitHub https://github.com/onmyway133/blog/issues 🥁
 
@@ -40,6 +38,7 @@
 - Linkedin https://www.linkedin.com/in/onmyway133/ 🙄
 - Reading list https://github.com/onmyway133/blog/issues/78 📚
 - Archives https://github.com/onmyway133/archives 🍵
+- Website http://www.fantageek.com/ ⛺️
 
 ## Curation
 
