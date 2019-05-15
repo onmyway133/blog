@@ -11,7 +11,7 @@
 - Cocoapods https://cocoapods.org/owners/3739 ☔️ (45k apps touched, 3.4m downloads)
 - Stackoverflow https://stackoverflow.com/users/1418457/onmyway133 🤘 (8.4m people reached, 370+ answers)
 - Open source https://github.com/onmyway133/blog/issues/5 🔥🔥🔥🔥🔥 (160+ repo)
-- Gumroad https://gumroad.com/onmyway133 🤠❤️
+- Gumroad https://gumroad.com/onmyway133 🤠❤️ (18k+ views)
 - Product Hunt https://www.producthunt.com/@onmyway133/made 🕺
 
 ## Writing
@@ -19,7 +19,7 @@
 - Medium https://medium.com/fantageek 🏄 (1.7k followers, 85k monthly views)
 - Articles https://github.com/onmyway133/blog/issues/165 🏄🏄🏄🏄🏄 (170+ articles) 
 - Dev https://dev.to/onmyway133 👨‍💻 (56k views)
-- GitHub https://github.com/onmyway133/blog/issues 🥁
+- GitHub https://github.com/onmyway133/blog/issues 🥁 (5k monthly views)
 
 ## Speaking
 
