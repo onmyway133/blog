@@ -1,9 +1,9 @@
 # 𝓫𝓵𝓸𝓰
 
-❤️ Support my apps ❤️ 
+❤️ Hi ❤️ 
 
-- [Push Hero - pure Swift native macOS application to test push notifications](https://onmyway133.com/pushhero)
-- [PastePal - Pasteboard, note and shortcut manager](https://onmyway133.com/pastepal)
+- Blog https://onmyway133.com/
+- Building https://indiegoodies.com/
 
 ❤️❤️😇😍🤘❤️❤️
 
